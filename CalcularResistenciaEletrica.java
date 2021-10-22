@@ -1,4 +1,4 @@
-package br.com.kelvin.ExerciciosDiversos;
+package br.com.kelvin.CalculadoraResistenciaEletrica;
 
 import java.util.Scanner;
 
